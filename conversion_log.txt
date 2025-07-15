@@ -1,0 +1,6 @@
+Input: 40000 Riels | English: Forty thousand Riels | Khmer: បួន ម៉ឺន រៀល | USD: 10 $
+Input: 7000 Riels | English: Seven thousand Riels | Khmer: ប្រាំពីរ ពាន់ រៀល | USD: 1.75 $
+Input: 1000000 Riels | English: One million Riels | Khmer: មួយ លាន រៀល | USD: 250 $
+Input: 5555 Riels | English: Five thousand five hundred fifty-five Riels | Khmer: ប្រាំ ពាន់ ប្រាំ រយ ប្រាំ ដប់ ប្រាំ រៀល | USD: 1.39 $
+Input: 200 Riels | English: Two hundred Riels | Khmer: ពីរ រយ រៀល | USD: 0.05 $
+Input: 53200 Riels | English: Fifty-three thousand two hundred Riels | Khmer: ប្រាំ ម៉ឺន បី ពាន់ ពីរ រយ រៀល | USD: 13.3 $
